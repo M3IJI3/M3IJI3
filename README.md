@@ -9,6 +9,3 @@ You can click the Preview link to take a look at your changes.
 <span>  </span>
 </div>
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=M3IJI3&theme=minimal" />
-</div>
