@@ -8,3 +8,7 @@ You can click the Preview link to take a look at your changes.
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=M3IJI3" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3IJI3&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=M3IJI3&theme=minimal" />
+</div>
